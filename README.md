@@ -1,3 +1,1 @@
 # Colobaration
-
-Git is awesome
